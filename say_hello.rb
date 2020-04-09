@@ -1,3 +1,3 @@
-def say_hello 
+def say_hello
   puts "Hello, Kent Beck!"
 end
